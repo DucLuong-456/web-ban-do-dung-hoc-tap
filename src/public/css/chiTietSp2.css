@@ -1,0 +1,11 @@
+
+.product_supplier,
+.product_trademark {
+    width: 281px;
+}
+
+.product_supplier a {
+    text-decoration: none;
+
+    color: #2489F4;
+}
